@@ -1,15 +1,11 @@
-## Hi there I am @Navyazitya
+## Hi there I am Navya..
 
-<!--
-**Navyazitya/Navyazitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  I’m currently pursuing my B-Tech.
+-  I’m looking to collaborate on different open source projects.
+-  I'm ambitious about programming.
+-  You can reach me through linkedin.
+-  Pronouns: She/Her
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning programming.
-- 👯 I’m looking to collaborate on different open source projects.
-- 📫 You can reach me through linkedin.
-- 😄 Pronouns: She/Her
--->
 
 I am an aspiring data analyst with a strong foundation in SQL and Python, driven by a passion for turning data into actionable insights. 
 With hands-on experience in data manipulation, visualization, and statistical analysis, I believe in project-based learning, applying my 
